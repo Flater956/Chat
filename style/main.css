@@ -1,0 +1,22 @@
+#wrapper{
+    margin: 20px auto;
+    width: 900px;
+    height: 500px;
+    border:  1px gainsboro solid;
+}
+
+#chat_output{
+    margin: 20px auto;
+    height: 300px;
+    overflow: auto;
+}
+
+#chat_input{
+    width: 400px;
+}
+
+#chat_users{
+    margin: 20px auto;
+    height: 300px;
+    text-align: center;
+}
